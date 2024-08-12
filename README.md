@@ -12,7 +12,7 @@ my name is Fahmy Anugrah
 
 ## 📫 How to reach me
 - [Email](mailto:fahmirty@gmail.com)
-- [LinkedIn](https://linkedin.com/in/fahmy=anugrah)
+- [LinkedIn](https://linkedin.com/in/fahmy-anugrah/)
 - [Instagram](https://instagram.com/famiredoooo)
 
 ## 📈 GitHub Stats
