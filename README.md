@@ -16,15 +16,9 @@ my name is Fahmy Anugrah
 - [Instagram](https://instagram.com/famiredoooo)
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=skr-g16&show_icons=true&theme=algolia&card_widht=500cm)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skr-g16&theme=algolia&card_widht=500)
 
-<p align="left">
-<a href="https://github.com/skr-g16">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
-</a>
-</p>
 <!--
 **skr-g16/skr-g16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
