@@ -1,5 +1,5 @@
 # Hi there 👋
-my name is Fahmy Anugrah
+I'm Fahmy Anugrah
 
 ## 🌱 I’m currently learning
 - Data analyst
